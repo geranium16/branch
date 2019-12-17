@@ -12,5 +12,6 @@
 
 ## 이곳은 conflict 발생하는 곳
 
-> 이건 master 브랜치에서 작업한 것 (master)
+이건 new 브랜치에서 작업한 것 (new)
+
 
